@@ -1,0 +1,8 @@
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caListaFinalED\caListaFinalED\bin\Debug\caListaFinalED.exe.config
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caListaFinalED\caListaFinalED\bin\Debug\caListaFinalED.exe
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caListaFinalED\caListaFinalED\bin\Debug\caListaFinalED.pdb
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caListaFinalED\caListaFinalED\obj\Debug\caListaFinalED.csproj.AssemblyReference.cache
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caListaFinalED\caListaFinalED\obj\Debug\caListaFinalED.csproj.SuggestedBindingRedirects.cache
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caListaFinalED\caListaFinalED\obj\Debug\caListaFinalED.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caListaFinalED\caListaFinalED\obj\Debug\caListaFinalED.exe
+D:\Meus Documentos\Escola\Faculdade\Semestre 4\ED\caListaFinalED\caListaFinalED\obj\Debug\caListaFinalED.pdb
